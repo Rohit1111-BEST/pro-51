@@ -1,0 +1,9 @@
+* {border:solid}
+h1 {color:#808080}
+
+h2 {color:#ffa500}
+.header {background-color:#00ffff;
+
+display:flex;
+justify-content:space-between;
+}
